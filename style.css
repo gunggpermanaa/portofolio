@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #3271a5;
+}
+#projects {
+  background-color: #3271a5;
+}
+.custom-footer {
+  background-color: #235384 !important;
+}
+section {
+  padding-top: 5rem;
+}
